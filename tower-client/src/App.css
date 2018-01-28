@@ -54,11 +54,7 @@ table {
 /* reset css? will it work with lower case idk?  */
 
 
-header { 
-/* display: flex; 
-align-content: center; */
 
-}
 .Github {
 float: right; 
 }
@@ -75,7 +71,7 @@ float: right;
 .Logo { 
 	float: left;
 		padding: .5rem 0 .5rem .5rem;
-	font-size: 2rem; 
+	font-size: 3rem; 
 	color: #F24738;
 	/* font-family: 'Arvo', serif; */
 }
@@ -83,9 +79,9 @@ float: right;
 /* imported  */
 
 
-.test {
+.Test {
     box-shadow: inset 6px -8px 6px -6px black;
-  background: url(/public/assets/slots.png);
+  background: url(/assets/slots.png);
   height: 200px;
   width: 200px;
   /* Create the parallax scrolling effect */
@@ -109,9 +105,9 @@ float: right;
 }
 
 
-.test2 {
+.Test2 {
     box-shadow: inset 6px -8px 6px -6px black;
-  background: url(/public/assets/slots.png);
+  background: url(/assets/slots.png);
   height: 200px;
   width: 200px;
   /* Create the parallax scrolling effect */
@@ -134,10 +130,10 @@ float: right;
 }
 
 
-.test3 {
+.Test3 {
     box-shadow: inset 6px -8px 6px -6px black;
       /* box-shadow: inset 0 -8px 6px -6px black; */
-  background: url(/public/assets/slots.png);
+  background: url(/assets/slots.png);
   height: 200px;
   width: 200px;
   /* Create the parallax scrolling effect */
@@ -160,7 +156,7 @@ float: right;
 }
 
 
-.container {
+.Container {
     display: flex;
     justify-content: center;
        border: 10px red solid;
@@ -173,13 +169,13 @@ button {
 
 
 
-.bet {
+.Bet {
   padding-top: 50px;
          display: flex;
     justify-content: space-around;
     align-content: center;
 }
-.guesser {
+.Guesser {
 
        display: flex;
     justify-content: space-around;
